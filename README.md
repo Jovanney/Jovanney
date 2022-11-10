@@ -1,8 +1,8 @@
 ## Olá, Me chamo Jovanney e seja bem-vindo ao meu Github
 <div align="center">
   <a href="https://github.com/Jovanney">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Jovanney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovanney&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Jovanney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovanney&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jova-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
